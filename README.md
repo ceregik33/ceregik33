@@ -10,7 +10,7 @@ outrun обгонять	ocean_dark океан_темный	city_lights огни 
 github_dark github_dark	github_dark_dimmed github_dark_dimmed	discord_old_blurple discord_old_blurple
 aura_dark aura_dark	panda панда	noctis_minimus noctis_minimus
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
