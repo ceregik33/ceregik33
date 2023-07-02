@@ -6,6 +6,11 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 
+outrun обгонять	ocean_dark океан_темный	city_lights огни города
+github_dark github_dark	github_dark_dimmed github_dark_dimmed	discord_old_blurple discord_old_blurple
+aura_dark aura_dark	panda панда	noctis_minimus noctis_minimus
+
+
 
 
 - 🔭 I’m currently working on ...
